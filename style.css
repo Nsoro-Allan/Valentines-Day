@@ -36,7 +36,7 @@ body {
     width: 200px;
     height: 200px;
     margin: -50px auto 20px;
-    border-radius: 20%;
+    border-radius: 12%;
     filter: drop-shadow(0 10px 20px rgba(255, 65, 108, 0.3));
     animation: float 3s ease-in-out infinite;
 }
